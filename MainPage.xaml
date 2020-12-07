@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="_2DArr.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="9*"/>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Image Grid.Row="1"
+           Margin="10,0"
+               Source="plane.png"/>
+        <Entry x:Name="EntryRow"
+           Grid.Row="2"
+           Placeholder="Enter Row"
+           FontSize="30"
+           Keyboard="Numeric"
+           VerticalOptions="Center"/>
+        <Entry x:Name="EntryColumn"
+           Grid.Row="3"
+           Placeholder="Enter Column"
+           FontSize="30"
+           Keyboard="Numeric"
+           VerticalOptions="Center"/>
+        <Button x:Name="BtnDisplayPrice"
+            Grid.Row="4"
+            Text="Display Price"
+                Clicked="BtnDisplayPrice_Clicked"/>
+        <Button x:Name="BtnMaxRevenue"
+            Grid.Row="5"
+            Text="Max Revenue"
+                Clicked="BtnMaxRevenue_Clicked"/>
+        <Label x:Name="LblResults"
+           Grid.Row="6"
+           Text="Seat Price: "
+           FontSize="30"
+           HorizontalOptions="Center"/>
+    </Grid>
+
+
+</ContentPage>

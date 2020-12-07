@@ -1,0 +1,14 @@
+C:\Users\dalli\source\repos\2DArr\2DArr\2DArr\bin\Debug\netstandard2.0\2DArr.deps.json
+C:\Users\dalli\source\repos\2DArr\2DArr\2DArr\bin\Debug\netstandard2.0\2DArr.dll
+C:\Users\dalli\source\repos\2DArr\2DArr\2DArr\bin\Debug\netstandard2.0\ref\2DArr.dll
+C:\Users\dalli\source\repos\2DArr\2DArr\2DArr\bin\Debug\netstandard2.0\2DArr.pdb
+C:\Users\dalli\source\repos\2DArr\2DArr\2DArr\obj\Debug\netstandard2.0\2DArr.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\2DArr\2DArr\2DArr\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dalli\source\repos\2DArr\2DArr\2DArr\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dalli\source\repos\2DArr\2DArr\2DArr\obj\Debug\netstandard2.0\2DArr.AssemblyInfoInputs.cache
+C:\Users\dalli\source\repos\2DArr\2DArr\2DArr\obj\Debug\netstandard2.0\2DArr.AssemblyInfo.cs
+C:\Users\dalli\source\repos\2DArr\2DArr\2DArr\obj\Debug\netstandard2.0\2DArr.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\2DArr\2DArr\2DArr\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dalli\source\repos\2DArr\2DArr\2DArr\obj\Debug\netstandard2.0\2DArr.dll
+C:\Users\dalli\source\repos\2DArr\2DArr\2DArr\obj\Debug\netstandard2.0\ref\2DArr.dll
+C:\Users\dalli\source\repos\2DArr\2DArr\2DArr\obj\Debug\netstandard2.0\2DArr.pdb
